@@ -5,6 +5,7 @@ Title
 Bio
 
  Hi! My name is Vachana. I'm a Graduate student in Computer Science at Northeastern University - Vancouver campus. After getting my bachelor’s degree in Computer Science, I worked as a Full Stack Developer at JP Morgan Chase for 2 years. I interned as a web developer for Harbourfront wealth management in Vancouver. I am passionate about problem solving and programming. 
+
 Linkedin Profile: https://www.linkedin.com/in/vachanagshetty/
 
 Abstract
