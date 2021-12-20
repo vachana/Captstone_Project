@@ -1,6 +1,6 @@
 Title
 
-                                            Satellite Data Analysis For Forest Detection
+                                 Satellite Data Analysis For Forest Detection
 
 Bio
 
